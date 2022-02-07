@@ -14,3 +14,4 @@ const CONFIG = {
     messDesc: 'So let my love you',
     btnAccept: 'Okiiiii lun <3',
     FBLink: 'http://facebook.com/ngocvan.2126
+} 
